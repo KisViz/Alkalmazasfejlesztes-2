@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\het1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64BCCC0C-FCBA-435A-BE0B-234FA759C81F}|DummyClass\\DummyClass.csproj|c:\\users\\albert\\source\\repos\\het1\\dummyclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BCCC0C-FCBA-435A-BE0B-234FA759C81F}|DummyClass\\DummyClass.csproj|solutionrelative:dummyclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BCCC0C-FCBA-435A-BE0B-234FA759C81F}|DummyClass\\DummyClass.csproj|c:\\users\\albert\\source\\repos\\het1\\dummyclass\\dummyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BCCC0C-FCBA-435A-BE0B-234FA759C81F}|DummyClass\\DummyClass.csproj|solutionrelative:dummyclass\\dummyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14333BC-2E80-4419-925D-0BC626969697}|het1\\het1.csproj|c:\\users\\albert\\source\\repos\\het1\\het1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14333BC-2E80-4419-925D-0BC626969697}|het1\\het1.csproj|solutionrelative:het1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14333BC-2E80-4419-925D-0BC626969697}|het1\\het1.csproj|c:\\users\\albert\\source\\repos\\het1\\het1\\het1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B14333BC-2E80-4419-925D-0BC626969697}|het1\\het1.csproj|solutionrelative:het1\\het1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DummyClass.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\het1\\DummyClass\\DummyClass.cs",
+              "RelativeDocumentMoniker": "DummyClass\\DummyClass.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\het1\\DummyClass\\DummyClass.cs",
+              "RelativeToolTip": "DummyClass\\DummyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T09:42:27.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\het1\\DummyClass\\Program.cs",
+              "RelativeDocumentMoniker": "DummyClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\het1\\DummyClass\\Program.cs",
+              "RelativeToolTip": "DummyClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T09:41:50.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "het1",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\het1\\het1\\het1.csproj",
+              "RelativeDocumentMoniker": "het1\\het1.csproj",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\het1\\het1\\het1.csproj",
+              "RelativeToolTip": "het1\\het1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-14T09:16:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\het1\\het1\\Program.cs",
+              "RelativeDocumentMoniker": "het1\\Program.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\het1\\het1\\Program.cs",
+              "RelativeToolTip": "het1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T09:12:44.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

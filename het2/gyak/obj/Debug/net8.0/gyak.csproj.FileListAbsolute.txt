@@ -1,0 +1,14 @@
+C:\Users\Albert\source\repos\het2\gyak\bin\Debug\net8.0\gyak.exe
+C:\Users\Albert\source\repos\het2\gyak\bin\Debug\net8.0\gyak.deps.json
+C:\Users\Albert\source\repos\het2\gyak\bin\Debug\net8.0\gyak.runtimeconfig.json
+C:\Users\Albert\source\repos\het2\gyak\bin\Debug\net8.0\gyak.dll
+C:\Users\Albert\source\repos\het2\gyak\bin\Debug\net8.0\gyak.pdb
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\gyak.AssemblyInfoInputs.cache
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\gyak.AssemblyInfo.cs
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\gyak.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\gyak.dll
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\refint\gyak.dll
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\gyak.pdb
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\gyak.genruntimeconfig.cache
+C:\Users\Albert\source\repos\het2\gyak\obj\Debug\net8.0\ref\gyak.dll

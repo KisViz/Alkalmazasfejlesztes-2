@@ -1,0 +1,14 @@
+C:\Users\Albert\source\repos\het2\het2\bin\Debug\net8.0\het2.exe
+C:\Users\Albert\source\repos\het2\het2\bin\Debug\net8.0\het2.deps.json
+C:\Users\Albert\source\repos\het2\het2\bin\Debug\net8.0\het2.runtimeconfig.json
+C:\Users\Albert\source\repos\het2\het2\bin\Debug\net8.0\het2.dll
+C:\Users\Albert\source\repos\het2\het2\bin\Debug\net8.0\het2.pdb
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\het2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\het2.AssemblyInfoInputs.cache
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\het2.AssemblyInfo.cs
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\het2.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\het2.dll
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\refint\het2.dll
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\het2.pdb
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\het2.genruntimeconfig.cache
+C:\Users\Albert\source\repos\het2\het2\obj\Debug\net8.0\ref\het2.dll
