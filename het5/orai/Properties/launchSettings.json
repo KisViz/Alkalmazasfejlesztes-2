@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "orai": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het5\\zh1\\athletes.csv\r\nC:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het5\\zh1\\countries.csv"
+    }
+  }
+}

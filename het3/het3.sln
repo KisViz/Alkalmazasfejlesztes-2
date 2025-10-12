@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "het3", "het3\het3.csproj", "{37057097-5B6B-4E94-8CA0-47B546850CD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "het3", "het3\het3.csproj", "{78B1BF68-9399-4D9D-A4E9-A3676181701D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{37057097-5B6B-4E94-8CA0-47B546850CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37057097-5B6B-4E94-8CA0-47B546850CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37057097-5B6B-4E94-8CA0-47B546850CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37057097-5B6B-4E94-8CA0-47B546850CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B1BF68-9399-4D9D-A4E9-A3676181701D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B1BF68-9399-4D9D-A4E9-A3676181701D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B1BF68-9399-4D9D-A4E9-A3676181701D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B1BF68-9399-4D9D-A4E9-A3676181701D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AFDB904B-2B2F-47E8-864F-36A8929CD177}
+		SolutionGuid = {86E4FD7B-8145-4849-932B-29F62205E9ED}
 	EndGlobalSection
 EndGlobal

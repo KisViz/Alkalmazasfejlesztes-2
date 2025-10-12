@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\het2\\",
+  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE792199-CDD5-4F77-AF54-B46E9D84C637}|gyak\\gyak.csproj|c:\\users\\albert\\source\\repos\\het2\\gyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE792199-CDD5-4F77-AF54-B46E9D84C637}|gyak\\gyak.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het2\\gyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE792199-CDD5-4F77-AF54-B46E9D84C637}|gyak\\gyak.csproj|solutionrelative:gyak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A6FACC4-0F5C-4171-81F2-59827FFA98D7}|het2\\het2.csproj|c:\\users\\albert\\source\\repos\\het2\\het2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A6FACC4-0F5C-4171-81F2-59827FFA98D7}|het2\\het2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het2\\het2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A6FACC4-0F5C-4171-81F2-59827FFA98D7}|het2\\het2.csproj|solutionrelative:het2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\het2\\gyak\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het2\\gyak\\Program.cs",
               "RelativeDocumentMoniker": "gyak\\Program.cs",
-              "ToolTip": "C:\\Users\\Albert\\source\\repos\\het2\\gyak\\Program.cs*",
-              "RelativeToolTip": "gyak\\Program.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het2\\gyak\\Program.cs",
+              "RelativeToolTip": "gyak\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T13:14:25.903Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\het2\\het2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het2\\het2\\Program.cs",
               "RelativeDocumentMoniker": "het2\\Program.cs",
-              "ToolTip": "C:\\Users\\Albert\\source\\repos\\het2\\het2\\Program.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het2\\het2\\Program.cs",
               "RelativeToolTip": "het2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T10:35:53.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T10:35:53.017Z"
             }
           ]
         }

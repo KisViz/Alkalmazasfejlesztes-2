@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "het5": {
+      "commandName": "Project",
+      "commandLineArgs": "athletes.csv\r\ncountries.csv"
+    }
+  }
+}

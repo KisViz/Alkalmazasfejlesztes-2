@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\het3\\",
+  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37057097-5B6B-4E94-8CA0-47B546850CD9}|het3\\het3.csproj|c:\\users\\albert\\source\\repos\\het3\\het3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37057097-5B6B-4E94-8CA0-47B546850CD9}|het3\\het3.csproj|solutionrelative:het3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78B1BF68-9399-4D9D-A4E9-A3676181701D}|het3\\het3.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het3\\het3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B1BF68-9399-4D9D-A4E9-A3676181701D}|het3\\het3.csproj|solutionrelative:het3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\het3\\het3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het3\\het3\\Program.cs",
               "RelativeDocumentMoniker": "het3\\Program.cs",
-              "ToolTip": "C:\\Users\\Albert\\source\\repos\\het3\\het3\\Program.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het3\\het3\\Program.cs",
               "RelativeToolTip": "het3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T14:49:11.414Z",
+              "WhenOpened": "2025-09-21T15:01:23.27Z",
               "EditorCaption": ""
             }
           ]
