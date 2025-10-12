@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("orai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78bc8ae9609ddb99effd958326788fa6d40a3ac1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dbc86d2d3ad730c877cdd9289801056d2414388")]
 [assembly: System.Reflection.AssemblyProductAttribute("orai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("orai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
