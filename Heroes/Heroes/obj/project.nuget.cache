@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+49UCgnkGA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albert\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Albert\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

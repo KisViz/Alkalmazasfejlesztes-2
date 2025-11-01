@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Heroes-Core")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Heroes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01ba9a997e42a6a5a5a28434d24e1af1eb7e206e")]
-[assembly: System.Reflection.AssemblyProductAttribute("Heroes-Core")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Heroes-Core")]
+[assembly: System.Reflection.AssemblyProductAttribute("Heroes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Heroes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
