@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\newhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\newhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\newhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\newhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\newhero.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\newhero.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\newhero.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\newhero.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\controller\\heroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\controller\\heroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\dao\\heroesmemorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\dao\\heroesmemorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\dao\\iheroesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\dao\\iheroesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\model\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\model\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het6\\het6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F61977C-A8E8-4777-8981-BCAD85DE252A}|het6\\het6.csproj|solutionrelative:het6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewHero.resx",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\NewHero.resx",
+              "RelativeDocumentMoniker": "het6\\NewHero.resx",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\NewHero.resx",
+              "RelativeToolTip": "het6\\NewHero.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-26T12:58:05.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewHero.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\NewHero.Designer.cs",
+              "RelativeDocumentMoniker": "het6\\NewHero.Designer.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\NewHero.Designer.cs",
+              "RelativeToolTip": "het6\\NewHero.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:58:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewHero.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\NewHero.cs",
+              "RelativeDocumentMoniker": "het6\\NewHero.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\NewHero.cs [Design]",
+              "RelativeToolTip": "het6\\NewHero.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:55:04.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewHero.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\NewHero.cs",
+              "RelativeDocumentMoniker": "het6\\NewHero.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\NewHero.cs",
+              "RelativeToolTip": "het6\\NewHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:12:52.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeroesController.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\controller\\HeroesController.cs",
+              "RelativeDocumentMoniker": "het6\\controller\\HeroesController.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\controller\\HeroesController.cs",
+              "RelativeToolTip": "het6\\controller\\HeroesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:56:52.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeroesMemoryDao.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\dao\\HeroesMemoryDao.cs",
+              "RelativeDocumentMoniker": "het6\\dao\\HeroesMemoryDao.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\dao\\HeroesMemoryDao.cs",
+              "RelativeToolTip": "het6\\dao\\HeroesMemoryDao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:55:58.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHeroesDao.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\dao\\IHeroesDao.cs",
+              "RelativeDocumentMoniker": "het6\\dao\\IHeroesDao.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\dao\\IHeroesDao.cs",
+              "RelativeToolTip": "het6\\dao\\IHeroesDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:35:08.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\model\\Hero.cs",
+              "RelativeDocumentMoniker": "het6\\model\\Hero.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\model\\Hero.cs",
+              "RelativeToolTip": "het6\\model\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:26:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\Form1.cs",
+              "RelativeDocumentMoniker": "het6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\Form1.cs",
+              "RelativeToolTip": "het6\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:14:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\Form1.cs",
+              "RelativeDocumentMoniker": "het6\\Form1.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\Form1.cs [Design]",
+              "RelativeToolTip": "het6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:26:22.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "het6\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het6\\het6\\Form1.Designer.cs",
+              "RelativeToolTip": "het6\\Form1.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:12:30.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

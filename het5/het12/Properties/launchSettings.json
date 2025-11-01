@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "het12": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het5\\het12\\athletes.csv\r\nC:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het5\\het12\\countries.csv"
+    }
+  }
+}

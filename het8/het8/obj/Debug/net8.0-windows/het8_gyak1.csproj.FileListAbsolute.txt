@@ -1,0 +1,17 @@
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\bin\Debug\net8.0-windows\het8_gyak1.exe
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\bin\Debug\net8.0-windows\het8_gyak1.deps.json
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\bin\Debug\net8.0-windows\het8_gyak1.runtimeconfig.json
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\bin\Debug\net8.0-windows\het8_gyak1.dll
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\bin\Debug\net8.0-windows\het8_gyak1.pdb
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8.Form1.resources
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.csproj.GenerateResource.cache
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.AssemblyInfoInputs.cache
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.AssemblyInfo.cs
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.csproj.CoreCompileInputs.cache
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.sourcelink.json
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.dll
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\refint\het8_gyak1.dll
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.pdb
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\het8_gyak1.genruntimeconfig.cache
+C:\Users\Albert\source\repos\Alkalmazasfejlesztes2\het8\het8\obj\Debug\net8.0-windows\ref\het8_gyak1.dll

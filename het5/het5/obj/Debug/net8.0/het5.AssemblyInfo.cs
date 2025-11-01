@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("het5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78bc8ae9609ddb99effd958326788fa6d40a3ac1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ccde91f33d0b63d272939bacebfa557720bb9e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("het5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("het5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

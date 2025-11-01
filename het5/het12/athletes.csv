@@ -1,0 +1,201 @@
+﻿ID,Name,Sex,Age,Height,Weight,Nationality
+1,A Dijiang,M,24,180,80,CHN
+2,A Lamusi,M,23,170,60,CHN
+3,Christine Jacoba Aaftink,F,21,185,82,NED
+4,Per Knut Aaland,M,31,188,75,USA
+5,John Aalberg,M,31,183,72,USA
+6,Antti Sami Aalto,M,26,186,96,FIN
+7,Jorma Ilmari Aalto,M,22,182,76,FIN
+8,Jyri Tapani Aalto,M,31,172,70,FIN
+9,Minna Maarit Aalto,F,30,159,55,FIN
+10,Juhamatti Tapio Aaltonen,M,28,184,85,FIN
+11,Paavo Johannes Aaltonen,M,28,175,64,FIN
+12,Timo Antero Aaltonen,M,31,189,130,FIN
+13,Kjetil Andr Aamodt,M,20,176,85,NOR
+14,Andreea Aanei,F,22,170,125,ROU
+15,Fritz Aanes,M,22,187,89,NOR
+16,Jan-Erik Aarberg,M,43,170,77,NOR
+17,Pepijn Aardewijn,M,26,189,72,NED
+18,Mika Lauri Aarnikka,M,24,187,76,FIN
+19,Dagfinn Sverre Aarskog,M,24,190,98,NOR
+20,Stefan Remco Aartsen,M,21,194,78,NED
+21,Ann Kristin Aarnes,F,23,182,64,NOR
+22,Morten Gjerdrum Aasen,M,34,185,75,NOR
+23,Meelis Aasme,M,25,182,73,EST
+24,Hans Aasns,M,33,194,93,NOR
+25,Erling Rudolf Aastad,M,22,177,74,NOR
+26,Moonika Aava,F,24,168,65,EST
+27,Arvi Aavik,M,22,185,106,EST
+28,Nstor Abad Sanjun,M,23,167,64,ESP
+29,Patrick Abada,M,22,189,80,FRA
+30,Talaat Abada,M,24,172,58,EGY
+31,Antonio Abadia Beci,M,26,170,65,ESP
+32,Borislav Abadzhiev,M,24,176,66,BUL
+33,Ivan Nikolov Abadzhiev,M,24,164,71,BUL
+34,Mikhail Abadzhiev,M,24,172,75,BUL
+35,Stefan Abadzhiev,M,26,175,72,BUL
+36,Giovanni Abagnale,M,21,198,90,ITA
+37,Jos Luis Abajo Gmez,M,30,194,87,ESP
+38,Patimat Abakarova,F,21,165,49,AZE
+39,Pablo Martn Abal,M,23,178,76,ARG
+40,Tamara Abalde Daz,F,19,185,72,ESP
+41,Jess Iory Aball Martnez,M,26,167,65,CUB
+42,Juan Antonio Aball Delgado,M,27,172,82,CUB
+43,Aleksey Aleksandrovich Abalmasov,M,24,180,83,BLR
+44,Luc Abalo,M,23,182,86,FRA
+45,Mara Laura Abalo,F,30,182,73,ARG
+46,Giorgos Abalof,M,22,178,70,GRE
+47,Jouan Patrice Abanda Etong,M,22,185,82,CMR
+48,Antoine Abang,M,27,166,75,CMR
+49,Jos Mara Abarca Plotas,M,22,186,83,ESP
+50,Georgios Abaris,M,22,190,77,GRE
+51,Enrique Abaroa Martnez,M,26,183,75,MEX
+52,Stephen Anthony Abas,M,26,165,55,USA
+53,Alejandro Abascal Garca,M,24,181,82,ESP
+54,Jos Manuel Abascal Gmez,M,22,182,67,ESP
+55,Rost'om Omeris dze Abashidze,M,29,188,97,URS
+56,Tamila Rashidovna Abasova,F,21,163,60,RUS
+57,Emanuele Abate,M,27,190,80,ITA
+58,Ignazio Abate,M,21,180,73,ITA
+59,Jol Marc Abati,M,34,190,85,FRA
+60,Georgia Abatzidou,F,35,155,43,GRE
+61,Carlos Rodolfo Abaunza Balladares,M,18,168,60,NCA
+62,Carlos Alberto Abaunza,M,16,180,70,NCA
+63,Hctor Abaunza,M,30,169,75,MEX
+64,Pter Abay,M,30,181,79,HUN
+65,Adeyemi Abayomi,M,25,170,51,NGR
+66,Ilyas Abbadi,M,19,175,75,ALG
+67,Agostino Abbagnale,M,22,188,96,ITA
+68,Carmine Abbagnale,M,22,182,90,ITA
+69,Giuseppe Abbagnale,M,20,187,97,ITA
+70,Abdul Latif Al-Sayed Abbas Youssef Hashem,M,23,176,64,KUW
+71,Abubakar Abbas Abbas,M,20,175,66,BRN
+72,Aqarab Abbas,M,22,190,88,PAK
+73,Aziz Abbas,M,21,169,67,IRQ
+74,Bassim Abbas Kati Al-Ogaili,M,22,175,80,IRQ
+75,Essa Abbas Faleh Hashem,M,20,160,65,KUW
+76,Ghulam Abbas,M,24,181,74,PAK
+77,Maher Abbas,M,22,178,78,LIB
+78,Mahmoud Abbas,M,22,165,65,EGY
+79,Mohammed Abbas Sabih,M,26,170,70,IRQ
+80,Muhammad Abbas,M,23,168,55,PAK
+81,Nader Sufyan Abbas,M,28,173,77,QAT
+82,Sohail Abbas,M,25,178,80,PAK
+83,Zulkifli Abbas,M,28,170,62,MAS
+84,Forough Abbasi,F,20,164,58,IRI
+85,Shakeel Abbasi,M,20,165,60,PAK
+86,Soulmaz Abbasi Azad,F,28,173,60,IRI
+87,Ruslan Abbasov,M,22,181,74,AZE
+88,Tural Abbasov,M,18,182,76,AZE
+89,Tran Abbasova,F,33,159,53,AZE
+90,Simona Abbate,F,28,171,64,ITA
+91,Christian Abbiati,M,23,192,90,ITA
+92,Lois Abbingh,F,23,178,72,NED
+93,Alessandro Abbio,M,29,195,85,ITA
+94,Giordano Giulio Abbondati,M,15,175,64,ITA
+95,Salwan Jasim Abbood Abbood,M,24,180,104,IRQ
+96,Clare Abbott,F,30,167,58,IRL
+97,Geoffrey Grant Abbott,M,23,179,80,RSA
+98,Jeremy Abbott,M,24,175,70,USA
+99,Jeremy Abbott,M,19,179,71,CAN
+100,Joanne Abbott,F,41,160,57,CAN
+101,Mara Katherine Abbott,F,30,163,52,USA
+102,Matt Abbott,M,34,185,91,CAN
+103,Monica Cecilia Abbott,F,23,191,88,USA
+104,Khadija Abbouda,F,40,165,57,MAR
+105,Mohamed Ibrahim Abd El-Fatah Mohamed,M,22,185,98,EGY
+106,Mahmoud Abd El-Kader,M,23,195,94,EGY
+107,Mohamed Ibrahim Abd El-Salam,M,22,192,83,EGY
+108,Reem Wa'il Abdalazem Abdalazem El-Bossaty,F,15,167,60,EGY
+109,Ali Abdalla Afringi,M,25,163,57,ERI
+110,Hossam Abdalla,M,28,203,97,EGY
+111,Nia Nicole Abdallah,F,20,175,56,USA
+112,Omari Abdallah,M,21,168,57,TAN
+113,Younis Abdallah Rabee,M,23,169,68,KUW
+114,Raida Abdallah Bader,F,19,158,49,JOR
+115,Maha Abdalsalam Gouda,F,18,172,61,EGY
+116,Mahmoud Abdel Aziz,M,25,174,70,EGY
+117,Mohamed Abdel Ellah,M,32,168,68,EGY
+118,Mohamed Abdel Fattah,M,23,174,69,EGY
+119,Sayed Abdel Gadir,M,23,180,56,SUD
+120,Heba Abdel Gawad,F,18,154,48,EGY
+121,Sara Abdel Gawad,F,18,153,46,EGY
+122,Ragy Abdel Hady,M,30,186,100,EGY
+123,Moustafa Ali Abdel Halim,M,32,152,52,EGY
+124,Mohamed Abdel Hamed,M,24,193,82,EGY
+125,Ahmed El-Sayed Abdel Hamid Mobarak,M,25,189,85,EGY
+126,Mohamed Abdel Khaled,M,24,183,76,TUN
+127,Abdel Latif Abdel Latif,M,28,172,68,EGY
+128,Amir Abdel Meguid,M,23,178,67,EGY
+129,Karim Abdel Mohsen,M,25,188,92,EGY
+130,Awad Abdel Nabi Awad,M,19,198,80,EGY
+131,Ahmed Abdel Naeim,M,23,197,87,EGY
+132,Moustafa Abdel Naser,M,21,176,74,LBA
+133,Khaled Abdel Rahman,M,27,188,79,EGY
+134,Yasser Abdel Rahman Sakr,M,30,180,120,EGY
+135,Samy Abdel Razek,M,28,170,60,EGY
+136,Ibrahim Ahmed Abdel Rehim,M,21,190,83,EGY
+137,Kamal Abdel Rehim,M,26,190,95,EGY
+138,Reskalla Mohamed Abdel Rehim,M,22,165,48,EGY
+139,Ahmed Ali Abdel Samad,M,27,195,95,EGY
+140,Mohamed Said Abdel Wehab,M,22,157,48,EGY
+141,Shaimaa Abdel-Latif-Hashad,F,23,165,57,EGY
+142,Ahmed Abdelaal,M,27,188,89,EGY
+143,Mahmoud Abdelaal,M,24,176,60,EGY
+144,Mohamed Ali Abdelaal,M,26,175,81,EGY
+145,Ibrahim Ramadan Ibrahim Abdelbaki,M,24,173,77,EGY
+146,Aziza Abdelfattah,F,17,159,51,EGY
+147,Abdalla Abdelgadir El-Sheikh,M,21,170,58,SUD
+148,Ragab Abdelhay Saad Abdelrazek Abdallah,M,21,170,94,EGY
+149,Mohamed Abdellah,M,36,170,70,EGY
+150,Ayoub Abdellaoui,M,23,184,68,ALG
+151,Leila Abdelmoez,F,19,160,46,EGY
+152,Sayed Abdelmonem Sayed Hamed,M,23,170,60,EGY
+153,Ahmed Abdelrahman,M,20,165,60,EGY
+154,Ihab Abdelrahman El-Sayed Abdelrahman,M,23,194,96,EGY
+155,Raouf Abdelraouf,M,22,167,63,EGY
+156,Mamdouh Abdelrehim,M,26,207,90,EGY
+157,El-Hachemi Abdenouz,M,24,170,63,ALG
+158,Rda Abdenouz,M,19,170,63,ALG
+159,Mouni Abderrahim,F,22,173,60,ALG
+160,Saeid Morad Abdevali,M,22,170,80,IRI
+161,Bashir Abdi,M,27,176,56,BEL
+162,Youcef Abdi,M,30,178,66,AUS
+163,Jamal Abdi Hassan Abdullah,M,19,177,65,QAT
+164,Talal Omar Abdillahi,M,21,170,57,DJI
+165,Ali Abdo,M,19,169,74,AUS
+166,Reema Abdo,F,21,173,59,CAN
+167,Nasrollah Abdollahi,M,24,183,75,IRI
+168,Yhyacinthe Mewoli Abdon,M,26,176,60,CMR
+169,Hassane Abdou,M,23,185,67,COM
+170,Justin Abdou,M,29,175,85,CAN
+171,Raouf Abdou,M,22,165,60,EGY
+172,Mohamed Abdou El-Souad,M,19,180,76,EGY
+173,Fawziya Abdoulkarim,F,27,180,67,CMR
+174,Alaa El-Din Abdoun,M,23,188,78,EGY
+175,Berik Abdrakhmanov,M,30,165,60,KAZ
+176,Maizurah Abdul Rahim,F,17,147,50,BRU
+177,Mehdi Fahim Abdul Al-Sada,M,24,184,70,IRQ
+178,Bashir Abdullah Abdul Aziz,M,22,180,73,KUW
+179,Chairil Anwar Abdul Aziz,M,24,163,61,MAS
+180,Shaimaa Abdul Aziz,F,19,160,53,EGY
+181,Jefri Kiko Bolkiah Abdul Hakeem,M,23,172,90,BRU
+182,Mohamed Abdul Hamid,M,19,175,55,SUD
+183,Hadi Abdul Jabbar,M,30,180,117,IRQ
+184,Mohamed Abed Abdul Jawad,M,22,169,65,KSA
+185,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,M,23,169,60,KUW
+186,Taha Abdul Karim,M,20,156,59,IRQ
+187,Masoud Abdul Khamis Al-Rahman,M,17,176,68,QAT
+188,Abdul Haji Abdul Latheef,M,17,168,54,MDV
+189,Majed Ahmed Abdul Mohamed,M,26,172,70,KSA
+190,Firouz Abdul Mohammadian,M,34,178,74,IRI
+191,Hussam Abdul Rahman,M,30,175,80,JOR
+192,Suleman Abdul Rahman,M,29,174,55,ETH
+193,Zambrose Abdul Rahman,M,24,173,64,MAS
+194,Lala Abdul Rashid,M,38,169,91,PAK
+195,Muhammad Abdul Rashid,M,23,181,72,PAK
+196,Samir Ahmed Abdul Shakour,M,24,180,72,KSA
+197,Patmawati Abdul Wahid,F,32,158,58,INA
+198,Haidar Abdul-Amir Hassan,M,21,185,80,IRQ
+199,Haidar Abdul-Razzaq Hassan,M,22,175,75,IRQ
+200,Mona Ahmad Abdulaziz Hassanein,F,26,166,61,EGY

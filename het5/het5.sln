@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orai", "orai\orai.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "het11", "het11\het11.csproj", "{B902888C-905C-4953-95D1-045058E92129}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "het12", "het12\het12.csproj", "{DDB0DD6C-76DB-43CD-B97B-FD9B20AB4066}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B902888C-905C-4953-95D1-045058E92129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B902888C-905C-4953-95D1-045058E92129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B902888C-905C-4953-95D1-045058E92129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDB0DD6C-76DB-43CD-B97B-FD9B20AB4066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB0DD6C-76DB-43CD-B97B-FD9B20AB4066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB0DD6C-76DB-43CD-B97B-FD9B20AB4066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB0DD6C-76DB-43CD-B97B-FD9B20AB4066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
