@@ -1,12 +1,103 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\heroes\\heroes\\view\\addhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|solutionrelative:heroes\\view\\addhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\heroes\\heroes\\controller\\heroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|solutionrelative:heroes\\controller\\heroescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\heroes\\heroes\\view\\listheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|solutionrelative:heroes\\view\\listheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\heroes\\heroes\\view\\addhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|solutionrelative:heroes\\view\\addhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\heroes\\heroes\\view\\listheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43912F17-1160-4868-912A-9448E5023AD2}|Heroes\\Heroes.csproj|solutionrelative:heroes\\view\\listheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddHero.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\View\\AddHero.cs",
+              "RelativeDocumentMoniker": "Heroes\\View\\AddHero.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\View\\AddHero.cs",
+              "RelativeToolTip": "Heroes\\View\\AddHero.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:22:04.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeroesController.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\Controller\\HeroesController.cs",
+              "RelativeDocumentMoniker": "Heroes\\Controller\\HeroesController.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\Controller\\HeroesController.cs",
+              "RelativeToolTip": "Heroes\\Controller\\HeroesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:13:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListHeroes.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\View\\ListHeroes.cs",
+              "RelativeDocumentMoniker": "Heroes\\View\\ListHeroes.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\View\\ListHeroes.cs",
+              "RelativeToolTip": "Heroes\\View\\ListHeroes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:13:02.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListHeroes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\View\\ListHeroes.cs",
+              "RelativeDocumentMoniker": "Heroes\\View\\ListHeroes.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\View\\ListHeroes.cs [Design]",
+              "RelativeToolTip": "Heroes\\View\\ListHeroes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:12:58.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddHero.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\View\\AddHero.cs",
+              "RelativeDocumentMoniker": "Heroes\\View\\AddHero.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\Heroes\\Heroes\\View\\AddHero.cs [Design]",
+              "RelativeToolTip": "Heroes\\View\\AddHero.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:12:44.579Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

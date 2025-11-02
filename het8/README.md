@@ -1,0 +1,41 @@
+# Alkfejl 2. Zh
+
+## Lépések
+- **Database létrehozása**
+    - Ha sql file van megadva:
+        - (./)sqlite3 *valami.db*
+        - .read *eredeti.sql*
+        - .tables
+        - .schema
+        - .exit
+        - Ha most listáznuk, akkor látható lesz a db file
+    - Ha db file van megadva, akkor már nincs dolgunk(?)
+- **Model**
+    - db alapján
+- **DAO**
+    - Interface elkészítése
+    - DAO osztály elkészítése interface implementálással
+        - Connection string adattag
+        - Implementálás *(~ctrl+c, ctrl+v az órai)*
+- **Controller**
+    - DAO interface adattag
+        - Konstruktorban kapja meg és állítja be
+    - Igazából csak a DAO interface metódusait hívogatjuk
+- **View**
+    - Formok létrehozása
+        - Listázás *(~ctrl+c, ctrl+v az órai)*
+            - Controller adattag, Konstruktorban létrehozzuk a DAO-t és azt oda adjuk egy uj conrollernek ami a controllerünk lesz
+            - Menü
+                - Addnál megnyitjuk a másik formot
+                - Listnél GridViewunk
+            - Módosítás
+        - Hozzáadás
+            - Controller és Model adattag, amit a konstruktorban várunk és állítunk be
+            - ComboBox beállítása
+            - Módosítás előkészítése
+            - Mentés
+                - Adattagok lekérése
+                - Ellenőrzése
+                - Beállítása
+                - És mentése
+            
