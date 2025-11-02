@@ -2,6 +2,7 @@
 
 ## Lépések
 - **Database létrehozása**
+    - **System.Data.Sqlite.Core** NuGet package telepítése
     - Ha sql file van megadva:
         - (./)sqlite3 *valami.db*
         - .read *eredeti.sql*

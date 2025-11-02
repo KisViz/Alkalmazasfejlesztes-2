@@ -1,86 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{02E06D81-46AC-4063-A168-0042F2C60D56}|mintaZh\\mintaZh.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het8\\mintazh\\view\\egyedadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E06D81-46AC-4063-A168-0042F2C60D56}|mintaZh\\mintaZh.csproj|solutionrelative:mintazh\\view\\egyedadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E06D81-46AC-4063-A168-0042F2C60D56}|mintaZh\\mintaZh.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het8\\mintazh\\view\\egyedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E06D81-46AC-4063-A168-0042F2C60D56}|mintaZh\\mintaZh.csproj|solutionrelative:mintazh\\view\\egyedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E06D81-46AC-4063-A168-0042F2C60D56}|mintaZh\\mintaZh.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het8\\mintazh\\view\\egyedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02E06D81-46AC-4063-A168-0042F2C60D56}|mintaZh\\mintaZh.csproj|solutionrelative:mintazh\\view\\egyedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E06D81-46AC-4063-A168-0042F2C60D56}|mintaZh\\mintaZh.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het8\\mintazh\\view\\egyedadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02E06D81-46AC-4063-A168-0042F2C60D56}|mintaZh\\mintaZh.csproj|solutionrelative:mintazh\\view\\egyedadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EgyedList.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh\\View\\EgyedList.cs",
-              "RelativeDocumentMoniker": "mintaZh\\View\\EgyedList.cs",
-              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh\\View\\EgyedList.cs [Design]",
-              "RelativeToolTip": "mintaZh\\View\\EgyedList.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T10:11:12.01Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EgyedList.cs",
-              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh\\View\\EgyedList.cs",
-              "RelativeDocumentMoniker": "mintaZh\\View\\EgyedList.cs",
-              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh\\View\\EgyedList.cs",
-              "RelativeToolTip": "mintaZh\\View\\EgyedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T23:26:45.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EgyedAdd.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh\\View\\EgyedAdd.cs",
-              "RelativeDocumentMoniker": "mintaZh\\View\\EgyedAdd.cs",
-              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh\\View\\EgyedAdd.cs [Design]",
-              "RelativeToolTip": "mintaZh\\View\\EgyedAdd.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T23:01:29.671Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EgyedAdd.cs",
-              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh\\View\\EgyedAdd.cs",
-              "RelativeDocumentMoniker": "mintaZh\\View\\EgyedAdd.cs",
-              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh\\View\\EgyedAdd.cs",
-              "RelativeToolTip": "mintaZh\\View\\EgyedAdd.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T09:57:51.255Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

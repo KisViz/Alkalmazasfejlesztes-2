@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("het8_gyak1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("mintaZh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+763e0ee17b35787c6304892e8c0b83d34519286d")]
-[assembly: System.Reflection.AssemblyProductAttribute("het8_gyak1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("het8_gyak1")]
+[assembly: System.Reflection.AssemblyProductAttribute("mintaZh")]
+[assembly: System.Reflection.AssemblyTitleAttribute("mintaZh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
