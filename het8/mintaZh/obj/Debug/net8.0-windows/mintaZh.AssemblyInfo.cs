@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mintaZh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+763e0ee17b35787c6304892e8c0b83d34519286d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee44077587b7bd18eb98da683dc2bb8eaed56245")]
 [assembly: System.Reflection.AssemblyProductAttribute("mintaZh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mintaZh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
