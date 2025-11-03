@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBTE5nkYRWI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het8\\mintaZh2\\mintaZh2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albert\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Albert\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
