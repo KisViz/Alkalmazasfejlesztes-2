@@ -18,6 +18,16 @@ namespace mintaZh.View
         private void addEgyedToolStripMenuItem_Click(object sender, EventArgs e)
         {
             using var window = new AddEgyed(controller);
+            //window.ShowDialog();
+
+            // innentol csak az autmatikus frissites miatt kell
+            var res = window.ShowDialog();
+
+            if (res == DialogResult.OK)
+            {
+                RefreshEgyedList();
+            }
+
             window.ShowDialog();
         }
 
@@ -36,7 +46,24 @@ namespace mintaZh.View
             }
 
             using var window = new AddEgyed(controller, egyed);
+            //window.ShowDialog();
+
+            // innentol csak az autmatikus frissites miatt kell
+            var res = window.ShowDialog();
+
+            if (res == DialogResult.OK)
+            {
+                RefreshEgyedList();
+            }
+
             window.ShowDialog();
+        }
+
+        private void RefreshEgyedList() //csak az autmatikus frissites miatt kell
+        {
+            egyedDataGridView1.DataSource = null;
+            egyedDataGridView1.DataSource = controller.GetEgyeds();
+            egyedDataGridView1.Visible = true;
         }
     }
 }
