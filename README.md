@@ -81,7 +81,7 @@ Utána:
     <span asp-validation-for="Position" class="text-danger"></span>
 </div>
 ```
-### Ha valami nem jelenik meg a kistában jól hozzáadásnál
+### Ha valami nem jelenik meg a listában jól hozzáadásnál
 - a [Model]sController.cs-ben át kell írni a ViewData sorok utolsó idézőjeles attribútumát olyanra, amit akarunk
 
 Előtte:
