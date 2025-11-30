@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.2\\views\\puppies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|solutionrelative:views\\puppies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.2\\views\\puppies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|solutionrelative:views\\puppies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.2\\models\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|solutionrelative:models\\puppy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.2\\controllers\\puppiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|solutionrelative:controllers\\puppiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69A5BF7-BD07-4EE7-A0CF-99AB7934A850}|het12.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Views\\Puppies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Puppies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Views\\Puppies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Puppies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:37:29.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Views\\Puppies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Puppies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Views\\Puppies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Puppies\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:36:21.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PuppiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Controllers\\PuppiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PuppiesController.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Controllers\\PuppiesController.cs",
+              "RelativeToolTip": "Controllers\\PuppiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:28:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:27:59.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:11:52.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Puppy.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Models\\Puppy.cs",
+              "RelativeDocumentMoniker": "Models\\Puppy.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Models\\Puppy.cs",
+              "RelativeToolTip": "Models\\Puppy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:15:41.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:28:48.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:27:03.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
