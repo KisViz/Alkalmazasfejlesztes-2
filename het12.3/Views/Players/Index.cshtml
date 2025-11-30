@@ -1,0 +1,62 @@
+﻿@model IEnumerable<het12._3.Models.Player>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @* ez lett atirva *@
+                @Html.DisplayNameFor(model => model.Name)
+                <a asp-controller="Players" asp-action="Index" asp-route-SortOrder="up">&#x2582</a>
+                <a asp-action="Index" asp-route-SortOrder="down">&#x25BC</a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Position)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Retired)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReferencedTeam.TeamName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Position)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Retired)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReferencedTeam.TeamName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
