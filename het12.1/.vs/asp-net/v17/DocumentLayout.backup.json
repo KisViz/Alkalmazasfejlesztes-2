@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949A73D4-5F43-00E2-73AC-EA46050E8DD7}|asp-net.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.1\\context\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949A73D4-5F43-00E2-73AC-EA46050E8DD7}|asp-net.csproj|solutionrelative:context\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949A73D4-5F43-00E2-73AC-EA46050E8DD7}|asp-net.csproj|c:\\users\\albert\\source\\repos\\alkalmazasfejlesztes2\\het12.1\\models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949A73D4-5F43-00E2-73AC-EA46050E8DD7}|asp-net.csproj|solutionrelative:models\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFContext.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.1\\Context\\EFContext.cs",
+              "RelativeDocumentMoniker": "Context\\EFContext.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.1\\Context\\EFContext.cs",
+              "RelativeToolTip": "Context\\EFContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:16:41.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.1\\Models\\Hero.cs",
+              "RelativeDocumentMoniker": "Models\\Hero.cs",
+              "ToolTip": "C:\\Users\\Albert\\source\\repos\\Alkalmazasfejlesztes2\\het12.1\\Models\\Hero.cs",
+              "RelativeToolTip": "Models\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:13:30.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
