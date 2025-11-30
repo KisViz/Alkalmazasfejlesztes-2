@@ -148,5 +148,6 @@ Views -> [Model]s -> Index.cshtml
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Age)
-</th>
+            </th>
+  (...)
 ```
