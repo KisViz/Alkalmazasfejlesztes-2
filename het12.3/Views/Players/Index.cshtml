@@ -9,6 +9,35 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+<div>
+    <form asp-action="Index" method="get">
+        <div>
+            <span>
+                <label>@Html.DisplayNameFor(model=> model.Position)</label>
+                <select name="PositionFiller" asp-items="Html.GetEnumSelectList<Position>()">
+                    <option value=""></option>
+                </select>
+            </span>
+            <span>
+                <label>@Html.DisplayNameFor(model => model.Name)</label>
+                <input name="NameFiller" class="control" />
+            </span>
+            <span>
+                <label>@Html.DisplayNameFor(model => model.Retired)</label>
+                <select name="RetiredFiller">
+                    <option value=""></option>
+                    <option value="true">Yes</option>
+                    <option value="false">No</option>
+                </select>
+            </span>
+            <span>
+                <input type="submit" value="Filter" class="btn btn-primary" />
+            </span>
+        </div>
+    </form>
+</div>
+
 <table class="table">
     <thead>
         <tr>

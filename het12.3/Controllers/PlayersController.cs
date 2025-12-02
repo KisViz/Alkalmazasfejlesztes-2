@@ -29,16 +29,47 @@ namespace het12._3.Controllers
 
             if (SortOrder != null && SortOrder.Equals("up"))
             {
-                res = res.OrderBy(e => e.Name);
+                res = res.OrderByDescending(e => e.Name);
             }
             if (SortOrder != null && SortOrder.Equals("down"))
             {
-                res = res.OrderByDescending(e => e.Name);
+                res = res.OrderBy(e => e.Name);
             }
-
+            if (PositionFiller != null)
+            {
+                res = res.Where(e => e.Position == PositionFiller);
+            }
+            if (NameFiller != null)
+            {
+                res = res.Where(e => e.Name.ToLower().Contains(NameFiller.ToLower()));
+            }
+            if (RetiredFiller != null)
+            {
+                res = res.Where(e => e.Retired == RetiredFiller);
+            }
 
             return View(await res.ToArrayAsync());
         }
+        //// GET: Players
+        //public async Task<IActionResult> Index(
+        //    string? SortOrder, Position? PositionFiller, string? NameFiller, bool RetiredFiller
+        //    )
+        //{
+        //    var eFContext = _context.Players.Include(p => p.ReferencedTeam);
+        //    var res = eFContext.AsQueryable();
+
+        //    if (SortOrder != null && SortOrder.Equals("up"))
+        //    {
+        //        res = res.OrderBy(e => e.Name);
+        //    }
+        //    if (SortOrder != null && SortOrder.Equals("down"))
+        //    {
+        //        res = res.OrderByDescending(e => e.Name);
+        //    }
+
+
+        //    return View(await res.ToArrayAsync());
+        //}
 
         // GET: Players/Details/5
         public async Task<IActionResult> Details(int? id)
