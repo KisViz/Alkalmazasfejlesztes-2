@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("het12.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5eee3207ffc78adc6bf37bd52952e675a371c9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ada4a2f455bd2ab267b2779866bb8f001ba60e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("het12.2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("het12.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

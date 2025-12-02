@@ -20,7 +20,6 @@ namespace het12._2.Models
         public string photoLink { get; set; }
         [Required]
         [ForeignKey("ReferencedCategory")]
-        [Display(Name = "ReferencedCategory.Name")]
         public int CategoryId { get; set; }
         public Category? ReferencedCategory { get; set; }
     }

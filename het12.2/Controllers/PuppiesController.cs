@@ -48,7 +48,7 @@ namespace het12._2.Controllers
         // GET: Puppies/Create
         public IActionResult Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Description");
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
             return View();
         }
 
@@ -65,7 +65,7 @@ namespace het12._2.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Description", puppy.CategoryId);
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", puppy.CategoryId);
             return View(puppy);
         }
 
